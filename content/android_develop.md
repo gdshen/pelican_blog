@@ -1,7 +1,7 @@
 Title:安卓开发规范
 Date:February 14, 2015 10:47 AM
-Category:android
-Tags:android 
+Category:Android
+Tags:Android
 
 # 安卓开发规范
 
