@@ -11,4 +11,5 @@ Tags:Android
 4. RESTful的api使用retrofit加载
 5. http请求使用okhttp
 6. IDE选择Android Studio
-7. 使用Androidannotation简化代码编写
+7. 使用Androidannotation简化代码编写 // 此点取消,因为可能导致某些第三库不可用
+8. 使用rugo来增加log信息
