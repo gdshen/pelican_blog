@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 DEFAULT_LANG = 'chs'
 
 # configure of gdshen
-THEME = "/home/gdshen/GithubBlog/blue-penguin"
+THEME = "/home/gdshen/GithubBlog/pelican-elegant"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
