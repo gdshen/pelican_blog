@@ -14,6 +14,8 @@ DEFAULT_LANG = 'chs'
 
 # configure of gdshen
 THEME = "/home/gdshen/GithubBlog/pelican-elegant"
+PLUGIN_PATHS = ['/home/gdshen/GithubBlog/pelican-plugins']
+PLUGINS = ['render_math']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
