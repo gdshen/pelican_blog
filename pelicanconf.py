@@ -13,7 +13,7 @@ TIMEZONE = 'Asia/Shanghai'
 DEFAULT_LANG = 'chs'
 
 # configure of gdshen
-THEME = "/home/gdshen/GithubBlog/bootlex"
+THEME = "/home/gdshen/GithubBlog/blue-penguin"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -36,10 +36,3 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
-RELATIVE_URLS = False
-ARTICLE_URL = ('{slug}/')
-ARTICLE_SAVE_AS = ('{slug}.html')
-PAGE_URL = ('{slug}/')
-PAGE_SAVE_AS = ('{slug}.html')
-AUTHOR_URL = ('author/{name}/')
-TAG_URL = ('tag/{name}/')
