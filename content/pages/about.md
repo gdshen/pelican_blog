@@ -1,11 +1,20 @@
-Title: About/Me
+Title: 沈国栋~简历
 Date: February 21, 2015 7:38 PM
 
 
 ## 个人定位:偏工程
 
 ### 学习经历
-沈国栋 中国科学技术大学 信息安全 本科生 2016年夏毕业 GPA:3.58/4.3 系排名:8/58
+中国科学技术大学 信息安全 本科生 2016年夏毕业 GPA:3.58/4.3 系排名:8/58
+
+### 联系方式
+1. Mail 
+	- sgd AT mail.ustc.edu.cn
+	- gdshen95 AT gmail.com
+2. 个人主页
+	- [托管在学校服务器的主页](http://home.ustc.edu.cn/~sgd)
+	- [托管在github上的主页](http://gdshen.github.io)
+3. [find me on github](http://github.com/gdshen)
 
 ### 荣誉奖励
 - 中国科学技术大学优秀本科生铜奖
@@ -26,6 +35,8 @@ Date: February 21, 2015 7:38 PM
 - Java
 - Python
 - Html/CSS
+- Git
+- Linux
 
 ### 项目开发
 - LED灯音乐频谱(硬件)
