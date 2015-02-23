@@ -44,7 +44,8 @@ Date: February 21, 2015 7:38 PM
 - LED灯音乐频谱(硬件)
 - 机器人竞赛上位机开发
 - 中国科大-中国通服 隐蔽云存储
-- 与另两名本科生组队参与2014 CSAW CTF比赛,获得全球本科组第87名的成绩
+- 搭建校内的搜索引擎
+- 与另两名本科生组队Blooping参与2014 CSAW CTF比赛,获得全球第175名的成绩[Blooping](https://ctftime.org/team/10307)
 
 ### 科研经历
 - 导师:薛开平副教授 [主页](http://staff.ustc.edu.cn/~kpxue)

@@ -3,8 +3,9 @@
 from __future__ import unicode_literals
 
 AUTHOR = '沈国栋'
-SITENAME = '工具与思考'
+SITENAME = '工具不能代替人类思考'
 SITEURL = ''
+
 
 PATH = 'content'
 
