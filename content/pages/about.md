@@ -43,9 +43,10 @@ Date: February 21, 2015 7:38 PM
 ### 项目开发
 - LED灯音乐频谱(硬件)
 - 机器人竞赛上位机开发
-- 中国科大-中国通服 隐蔽云存储
+- 中国科大-中国通服 隐蔽云存储 Android端开发人员
 - 搭建校内的搜索引擎
 - 与另两名本科生组队Blooping参与2014 CSAW CTF比赛,获得全球第175名的成绩[Blooping](https://ctftime.org/team/10307)
+- AppSeed社团校园应用ClubSeed主要开发人员
 
 ### 科研经历
 - 导师:薛开平副教授 [主页](http://staff.ustc.edu.cn/~kpxue)
