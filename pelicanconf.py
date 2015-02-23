@@ -43,3 +43,5 @@ STATIC_PATHS = ['extra/favicon.ico']
 EXTRA_PATH_METADATA = {
     'extra/favicon.ico': {'path': 'favicon.ico'}
 }
+
+USE_FOLDER_AS_CATEGORY = True

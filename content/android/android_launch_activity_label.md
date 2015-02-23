@@ -1,6 +1,5 @@
 Title:Android应用名与launch activity的名字的关系
 Date:February 13, 2015 3:05 PM
-Category:Android
 Tags:Android, UI
 
 # 将android应用的名字更改为与主activity不同

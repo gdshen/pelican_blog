@@ -1,6 +1,5 @@
 Title:tmux使用小结
 Date:February 13, 2015 2:24 PM
-Category:linux
 Tags:linux, vps
 
 # 使用tmux代替screen
