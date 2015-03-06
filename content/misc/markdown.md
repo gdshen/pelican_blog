@@ -10,5 +10,6 @@ Date:March 6, 2015 4:19 PM
 - 推送到云端 `git push`
 - 建立新的分支 `git branch newBranchName`
 - 切换到新的分支 `git checkout branchName`
+- 删除分支 `git branch -d branchName`
 - 合并 `git merge branchName`
 - 添加远程仓库 `git remote add origin githubRes`
