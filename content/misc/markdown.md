@@ -13,3 +13,4 @@ Date:March 6, 2015 4:19 PM
 - 删除分支 `git branch -d branchName`
 - 合并 `git merge branchName`
 - 添加远程仓库 `git remote add origin githubRes`
+- 查看日志 `git log`
