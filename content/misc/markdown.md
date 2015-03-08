@@ -1,16 +1,67 @@
 Title:markdown小记
-Date:March 6, 2015 4:19 PM
+Date:March 8, 2015 9:54 AM
 
-### Git使用过程中的一些命令
-- 建立仓库 `git init`
-- 加入到仓库 `git add filename`
-- 提交 `git commit -m "message"`
-- 回退 `git reset --hard HEAD^n`
-- 拉取 `git pull`
-- 推送到云端 `git push`
-- 建立新的分支 `git branch newBranchName`
-- 切换到新的分支 `git checkout branchName`
-- 删除分支 `git branch -d branchName`
-- 合并 `git merge branchName`
-- 添加远程仓库 `git remote add origin githubRes`
-- 查看日志 `git log`
+### 这是目录
+[TOC]
+
+空行分割段落
+
+这里又是一段
+
+#### 决定标题大小
+##### 不同的标题大小
+
+> 这是引用
+
+**这是粗体**
+*这是斜体*
+
+- 这是无序列表1
+- 这是无序列表2
+- 这是无序列表3
+
+1. 这是有序列表1
+2. 这是有序列表2
+3. 这是有序列表3
+
+### 这里是列表嵌套
+1. 这里是第一层
+  1. 这是嵌套
+  2. 这是嵌套
+2. 这是第一层
+
+### 行内代码格式化
+`print 'hello world'`
+
+### 代码块格式化及高亮
+```python
+def hello()
+	print('hello,world')
+```
+
+### 超链接
+[我的主页](http://gdshen.tk)
+URL自动转成链接http://gdshen.tk
+
+### 表格
+表格标题1 | 表格标题2 | 表格标题3
+:------ | :------:| -----:
+表格内容左对齐 | 表格内容居中对齐| 表格内容右对齐
+table content |table content3 | table content 2
+
+断行测试[^1]
+断行测试
+
+### 作为GTD
+- [x] 这是任务1
+- [ ] 这是任务2
+
+图片链接 `![]()`
+
+### mathJax的数学模式
+$$
+x^2+y^2 = 1
+$$
+
+[^1]:这是脚注1
+[^2]:这是脚注2
